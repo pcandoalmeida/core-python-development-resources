@@ -16,6 +16,7 @@ A public repository to hold core python development resources for the curious an
 * Raghu, Prashanth [Internals of Python3.6](https://docs.google.com/document/d/1zrRTahXojd1gUGxK16Iwcqs0LUivqXK659hn4h9tOVw/edit#)
 * [CPython Guide](https://paper.dropbox.com/doc/CPython-Guide-m7BQyPth6AIDUdZ6EmBNM)
 * Van Rossum, Guido [Yet another guided tour of CPython](https://paper.dropbox.com/doc/Yet-another-guided-tour-of-CPython-XY7KgFGn88zMNivGJ4Jzv)
+* Wirtel, Stephane (2015) [Exploring Our Python Interpreter](https://speakerdeck.com/matrixise/exploring-our-python-interpreter?slide=26)
 
 ### Pythonic Shenanigans
 
