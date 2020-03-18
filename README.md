@@ -22,6 +22,7 @@ A public repository to hold core python development resources for the curious an
 * Wirtel, Stephane (2018) [Python Loves Your Contributions](https://speakerdeck.com/matrixise/python-loves-your-contributions?slide=21)
 * Guo, Philip (2014) [CPython internals: A ten-hour codewalk through the Python interpreter source code](http://www.pgbovine.net/cpython-internals.htm)
 * Poulain, Laurent [Yet Another Python Internals Blog](https://pythoninternal.wordpress.com/)
+* Golubin, Artem [Personal Blog](https://rushter.com/blog/)
 
 
 ### Pythonic Shenanigans
