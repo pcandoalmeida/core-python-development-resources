@@ -10,6 +10,7 @@ A public repository to hold core python development resources for the curious an
 
 ### Deep Dives
 
+* Liou, Daw-Ran (2017) [Getting Started with Python Internals](https://medium.com/@dawranliou/getting-started-with-python-internals-a5474ccb8022)
 * Shaw, Anthony (2019) [Your Guide to the CPython Source Code](https://realpython.com/cpython-source-code-guide/)
 * Stinner, Victor (2017) [Python Development Documentation](https://pythondev.readthedocs.io/)
 * [Inside the Python Virtual Machine](https://leanpub.com/insidethepythonvirtualmachine/read)
