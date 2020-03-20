@@ -34,6 +34,7 @@ A public repository to hold core python development resources for the curious an
 * HowCode, [Make Your Own VM in Python (1)](https://youtu.be/5U__sbjazPc), [Make Your Own VM in Python (2)](https://youtu.be/C3RD_iwDPTE)
 * CodePulse, [Make Your Own Language in Python](https://youtu.be/Eythq9848Fg)
 * Beazley, David (2014) [Discovering Python](https://youtu.be/RZ4Sn-Y7AP8)
+* Powell, James (2017) [So You Want To Be A Python Expert](https://youtu.be/RZ4Sn-Y7AP8)
 
 ### Disclaimer
 
