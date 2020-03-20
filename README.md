@@ -1,3 +1,5 @@
+![Python](python.svg)
+
 ## Core Python Development Resources
 
 A public repository to hold core python development resources for the curious and beginning core Python developer.
@@ -39,4 +41,6 @@ A public repository to hold core python development resources for the curious an
 
 ### Disclaimer
 
-This is a personal list of resources, compiled for educational purposes. If there are errors or issues with attribution, please submit a PR and I will glady correct/update the document. 
+This is a personal list of resources, compiled for educational purposes. If there are errors or issues with attribution, please submit a PR and I will glady correct/update the document.
+
+Icon made by [Flat Icons](https://www.flaticon.com/free-icon/python_2721287) from [www.flaticon.com](https://www.flaticon.com/)
