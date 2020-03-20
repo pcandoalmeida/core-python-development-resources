@@ -26,7 +26,7 @@ A public repository to hold core python development resources for the curious an
 * ZPpoint, [CPython-Internals](https://github.com/zpoint/CPython-Internals)
 
 
-### Pythonic Shenanigans
+### Other Pythonic Shenanigans
 
 * Allison Kaptur [A Python Interpreter Written in Python](http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
 * HowCode, [Make Your Own VM in Python (1)](https://youtu.be/5U__sbjazPc), [Make Your Own VM in Python (2)](https://youtu.be/C3RD_iwDPTE)
