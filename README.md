@@ -25,6 +25,7 @@ A public repository to hold core python development resources for the curious an
 * Golubin, Artem [Personal Blog](https://rushter.com/blog/)
 * ZPpoint, [CPython-Internals](https://github.com/zpoint/CPython-Internals)
 * VanTol, Alexander [Memory Management in Python](https://realpython.com/python-memory-management/)
+* Golubin, Artem (2019) [Garbage Collection in Python: Things You Need To Know (Python 3.6)](https://rushter.com/blog/python-garbage-collector/)
 
 
 ### Other Pythonic Shenanigans
