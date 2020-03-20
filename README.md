@@ -35,6 +35,7 @@ A public repository to hold core python development resources for the curious an
 * CodePulse, [Make Your Own Language in Python](https://youtu.be/Eythq9848Fg)
 * Beazley, David (2014) [Discovering Python](https://youtu.be/RZ4Sn-Y7AP8)
 * Powell, James (2017) [So You Want To Be A Python Expert](https://youtu.be/RZ4Sn-Y7AP8)
+* Powell, James (2017) [Advanced Metaphors in Coding with Python](https://youtu.be/R2ipPgrWypI)
 
 ### Disclaimer
 
