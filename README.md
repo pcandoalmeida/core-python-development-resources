@@ -24,6 +24,7 @@ A public repository to hold core python development resources for the curious an
 * Poulain, Laurent [Yet Another Python Internals Blog](https://pythoninternal.wordpress.com/)
 * Golubin, Artem [Personal Blog](https://rushter.com/blog/)
 * ZPpoint, [CPython-Internals](https://github.com/zpoint/CPython-Internals)
+* VanTol, Alexander [Memory Management in Python](https://realpython.com/python-memory-management/)
 
 
 ### Other Pythonic Shenanigans
