@@ -23,6 +23,7 @@ A public repository to hold core python development resources for the curious an
 * Guo, Philip (2014) [CPython internals: A ten-hour codewalk through the Python interpreter source code](http://www.pgbovine.net/cpython-internals.htm)
 * Poulain, Laurent [Yet Another Python Internals Blog](https://pythoninternal.wordpress.com/)
 * Golubin, Artem [Personal Blog](https://rushter.com/blog/)
+* ZPpoint, [CPython-Internals](https://github.com/zpoint/CPython-Internals)
 
 
 ### Pythonic Shenanigans
