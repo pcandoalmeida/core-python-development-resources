@@ -22,7 +22,7 @@ A public repository to hold core python development resources for the curious an
 * Van Rossum, Guido [History of Python Blog](http://python-history.blogspot.com/)
 * Wirtel, Stephane (2015) [Exploring Our Python Interpreter](https://speakerdeck.com/matrixise/exploring-our-python-interpreter?slide=26)
 * Wirtel, Stephane (2018) [Python Loves Your Contributions](https://speakerdeck.com/matrixise/python-loves-your-contributions?slide=21)
-* Guo, Philip (2014) [CPython internals: A ten-hour codewalk through the Python interpreter source code](http://www.pgbovine.net/cpython-internals.html)
+* Guo, Philip (2014) [CPython internals: A ten-hour codewalk through the Python interpreter source code](https://www.youtube.com/playlist?list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S)
 * Poulain, Laurent [Yet Another Python Internals Blog](https://pythoninternal.wordpress.com/)
 * Golubin, Artem [Personal Blog](https://rushter.com/blog/)
 * ZPpoint, [CPython-Internals](https://github.com/zpoint/CPython-Internals)
